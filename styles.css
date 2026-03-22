@@ -153,7 +153,6 @@ h1 {
 }
 
 .box.content-box {
-  /* El modelo tradicional (content-box) hace que el ancho total crezca al añadir padding/border */
   box-sizing: content-box;
 }
 
@@ -163,7 +162,6 @@ h1 {
   text-align: center;
 }
 
-/* Pie de página */
 .site-footer {
   text-align: center;
   padding: 1.75rem 1rem;
